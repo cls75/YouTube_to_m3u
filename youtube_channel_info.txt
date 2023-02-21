@@ -2,22 +2,11 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
-
 CCTV4 | China |  |
 https://www.youtube.com/watch?v=QTz6avPD4Ns
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
 
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
-
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
-
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
+寰宇新闻 |台湾||
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
 中天新闻 |台湾||
 https://www.youtube.com/watch?v=_QbRXRnHMVY
@@ -28,14 +17,17 @@ https://www.youtube.com/watch?v=2mCSYvcfhtc
 台視新聞台 |台湾||
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-三立海外直播 |台湾||
-https://www.youtube.com/watch?v=FoBfXvlOR6I
+华視新聞台 |台湾||
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+凤凰资讯 |香港||
+https://www.youtube.com/watch?v=dmDg7NfUoSw
 
 中視新聞 |台湾||
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-寰宇新聞台 |台湾||
-https://www.youtube.com/watch?v=B7Zp3d6xXWw
+镜新聞 |台湾||
+https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 国家地理 |世界||
 https://www.youtube.com/watch?v=OQz-efDv01k
@@ -46,8 +38,8 @@ https://www.youtube.com/watch?v=vEO6wO0QsX8
 KBS | 韩国 |  |
 https://www.youtube.com/watch?v=1WhB1z0bWGs
 
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
+연합뉴스TV | 韩国 |  |
+https://www.youtube.com/watch?v=0GN8t2u3flc/live
 
 ABC  |英语||
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
@@ -73,9 +65,14 @@ https://www.youtube.com/watch?v=R2iMq5LKXco
 東森財經新聞  |台湾||
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
-
 東森娛樂台live |
 https://www.youtube.com/watch?v=AH053CqyXWg
 
+4K | 风景1 |  |
+https://www.youtube.com/watch?v=rw7bxTqkYYs
+
+4K | 风景2 |  |
+https://www.youtube.com/watch?v=tAuXNZ5TSlA
+
+空间站1 | 世界 |  |
+https://www.youtube.com/watch?v=mBzrxNHF2u8
