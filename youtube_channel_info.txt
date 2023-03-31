@@ -1,20 +1,19 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-NAT GEO | 世界 |  |
-https://www.youtube.com/watch?v=0ThMultL4PY
 
-NAT GEO Wild | 世界 |  |
-https://www.youtube.com/watch?v=fsAEqdhgTQM
 
-CCTV4 | China |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
+中天新闻 |台湾||
+https://www.youtube.com/watch?v=OcvOEPFHwdw
+
+中天新聞2台 |台湾||
+https://www.youtube.com/watch?v=WPfPjbOLNfE
 
 寰宇新闻 |台湾||
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+寰宇新聞2 |台湾||
+https://www.youtube.com/watch?v=1baN3SZYWc0
 
 TVBS新闻 |台湾||
 https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -40,11 +39,29 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 华视新闻 |台湾||
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
+公共電視 |台湾||
+https://www.youtube.com/watch?v=4Uc00FPs27M
+
+公視台語台 |台湾||
+https://www.youtube.com/watch?v=6KlRR_DGhmI
+
+台視 |台湾||
+https://www.youtube.com/watch?v=uDqQo8a7Xmk
+
 镜新聞 |台湾||
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 Taiwan Plus |台湾||
 https://www.youtube.com/watch?v=dZp87qnWelE
+
+NAT GEO | 世界 |  |
+https://www.youtube.com/watch?v=0ThMultL4PY
+
+NAT GEO Wild | 世界 |  |
+https://www.youtube.com/watch?v=fsAEqdhgTQM
+
+CCTV4 | China |  |
+https://www.youtube.com/watch?v=QTz6avPD4Ns
 
 DW |世界||
 https://www.youtube.com/watch?v=ammKkVgtIHw
