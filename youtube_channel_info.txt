@@ -1,8 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-National Geography | 世界 |  |
+NAT GEO | 世界 |  |
 https://www.youtube.com/watch?v=0ThMultL4PY
+
+NAT GEO Wild | 世界 |  |
+https://www.youtube.com/watch?v=fsAEqdhgTQM
 
 CCTV4 | China |  |
 https://www.youtube.com/watch?v=QTz6avPD4Ns
