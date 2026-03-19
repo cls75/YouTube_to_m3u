@@ -33,10 +33,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 民视新闻
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773977975/ei/F228aZy7IOy_kucPqa6kMA/ip/172.208.127.196/id/ylYJSBUgaMA.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773318/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-wJsdm77Yjbd8oRV0OnI8Sx-A9cMjzEuktkhsLk_feBGPbRq8RlFso-T6u8XCoPivyjXdgbjDxB/spc/6dlaFDb-MCav-RN6la1gkoXZf2MyqpGauBwl3VpaFv2i-fodoaDC7BNxPIg/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAN3bb9ahP0rA1brMpbrwQka3XkgrG-XWKzXw6UkCeaCrAiA_RaDPufFZaFc69aWtBXZpjt8u_gQc0onnIfA-UwZ1Vw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 公视新闻
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773977976/ei/GG28aZjkF9PFkucPqca3EA/ip/172.208.127.196/id/quwqlazU-c8.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-wZgD0oGKY3DLoRZCDgrf8govTOunESX29wilctXaLcYGJ4xBVPa7wJPMReSFdLk5DJAWdhVBAe/spc/6dlaFHkkS929_EEF8cn1WARhd-N_hEWkOYoVrYVk5DlDUuCiGxcOeRUxSTU/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgEpZ-AV4CSp9KK23s-4PeYnoZQqDbb6M5dy9KeI8AJzMCIQCJHvLITF33p6CMB1iIUUyD92LT8HZaovKBNIkEuuqyuA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 台視
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
