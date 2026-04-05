@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="世界" tvg-logo="" tvg-id="", Al Jazeera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775394778/ei/egvSacLHFZyGkucPnMDm8Qg/ip/172.203.253.212/id/gCNeDWCI0vo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828959/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AUUZDGL6HF8BEqGWwODAjgpw4yZ89qD3ixDWrBS-_7MZsq5pLM5lm2jer-E9f6lgioaeZc5CPSaOlUIK/spc/jlWavQDOeXal0VXTDthqvr3kJdhUmxTHAX1Lu_GPi_K6ITMeru6N-lT7vsWwXYB-HXY-xg/vprv/1/go/1/ns/CSgdz_RPcrIdLH-z35eSdGMU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/c5VFShsFYxBbjlPugDsf/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhALFMnmqg-dj1bj5gJWoE1yI4fnnzSP3yh_O4YwXTar9-AiAM-5-KxYILwdoF3UzBuSxW5uFGdkL8MAS9NCKTu1sPQA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="世界" tvg-logo="https://i.imgur.com/y5kZk6K.png" tvg-id="", ANews
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
